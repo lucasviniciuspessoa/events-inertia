@@ -1,10 +1,44 @@
 # 🎉 **Sistema de Gerenciamento de Eventos (EM DESENVOLVIMENTO) **
 
-![Página Inicial](images-readme/paginaInicial.png)
-
 
 ## Descrição
 Este sistema de gerenciamento de eventos permite que os usuários criem, visualizem, editem, e participem de eventos. Ele foi desenvolvido com **Laravel** no backend, **Vue.js** no frontend, e **Tailwind CSS** para um design responsivo e moderno. O projeto também utiliza **Jetstream** e **Inertia.js** para facilitar a interação entre o frontend e o backend.
+
+
+
+![Página Inicial](images-readme/paginaInicial.png)
+
+## Capturas de tela
+
+### Página Inicial
+![Página Inicial](images-readme/paginaInicial.png)
+
+### Tela Inicial no Mobile
+![Tela Inicial Mobile](images-readme/mobile-inicial.png)
+
+
+### Tela de Cadastro
+![Tela de Cadastro](images-readme/register.png)
+
+### Tela de Login
+![Tela de Login](images-readme/login.png)
+
+
+### Tela de Criar Evento no Mobile
+![Tela de Criar Evento Mobile](images-readme/mobile-criar.png)
+
+
+
+### Tela de Confirmação
+![Tela de Confirmação](images-readme/confirmacao.png)
+
+### Tela de Edição
+![Tela de Edição](images-readme/editar.png)
+
+
+### Detalhes do Evento
+![Detalhes do Evento](images-readme/detalhes.png)
+
 
 ### Funcionalidades:
 - ✅ **Autenticação de Usuários**: Usuários podem se registrar, fazer login e gerenciar sua conta.
@@ -51,33 +85,3 @@ Agradeço pela compreensão e por acompanhar o desenvolvimento deste projeto!
 
 
 
-## Capturas de tela
-
-### Página Inicial
-![Página Inicial](images-readme/paginaInicial.png)
-
-### Tela Inicial no Mobile
-![Tela Inicial Mobile](images-readme/mobile-inicial.png)
-
-
-### Tela de Cadastro
-![Tela de Cadastro](images-readme/register.png)
-
-### Tela de Login
-![Tela de Login](images-readme/login.png)
-
-
-### Tela de Criar Evento no Mobile
-![Tela de Criar Evento Mobile](images-readme/mobile-criar.png)
-
-
-
-### Tela de Confirmação
-![Tela de Confirmação](images-readme/confirmacao.png)
-
-### Tela de Edição
-![Tela de Edição](images-readme/editar.png)
-
-
-### Detalhes do Evento
-![Detalhes do Evento](images-readme/detalhes.png)
