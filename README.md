@@ -1,4 +1,4 @@
-# 🎉 **Sistema de Gerenciamento de Eventos (EM DESENVOLVIMENTO) **
+# 🎉 Sistema de Gerenciamento de Eventos (EM DESENVOLVIMENTO)
 
 
 ## Descrição
